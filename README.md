@@ -16,4 +16,4 @@ The idea for Supperwhere comes from a commonly recurring dillema: What do I eat 
 2. cd into the front-end folder (app/front-end) from the app directory. Input "npm install" to make sure you have all the dependencies on that folder. Then input and run "npm start" to start the react portion of the app, which will send you to the homepage.
 3. cd back to the back-end folder (app/back-end) from the app directory.
 5. Run "npm install" on the back-end folder to be safe in terms of having all the dependencies for express and Zomato.
-6. Once that's set up, do npx nodemon to start the server, and you're all set.
+6. Once that's set up, do "npx nodemon" from the back-end folder to start the server, and you're all set.
