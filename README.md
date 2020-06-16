@@ -6,15 +6,11 @@ Supperwhere is an application that allows users to figure out dining recommendat
 
 The idea for Supperwhere comes from a commonly recurring dillema: What do I eat for dinner? The decision making process for what to get for dinner can be a huge time-sink, and often times leaving the decision to chance can result in regret or second guesses. The idea for supperware was to use data to justify an optimal dinner decision, rather than just a random suggestion, or flipping a coin.
 
-## Contributing to the Project
-
-[Contributing](https://github.com/nyu-software-engineering/spring-2020-crystal-balboa/blob/master/CONTRIBUTING.md)
-
 ## Prototype Link
 
 [Prototype on Invision](https://projects.invisionapp.com/share/MGW6PTTJ4HP#/screens/407491823_Login_Page)
 
-## Running the Project for Sprint 3
+## Running the App
 
 1. Make sure that you have .env present in the app/back-end folder; the app will not start without it. 
 2. cd into the front-end folder (app/front-end) from the app directory. Input "npm install" to make sure you have all the dependencies on that folder. Then input and run "npm start" to start the react portion of the app, which will send you to the homepage.
