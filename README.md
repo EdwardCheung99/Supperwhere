@@ -8,7 +8,7 @@ The idea for Supperwhere comes from a commonly recurring dillema: What do I eat 
 
 ## Link
 
-http://157.245.94.160:3000/
+http://supperwhere.herokuapp.com/
 
 ## Prototype Link
 
