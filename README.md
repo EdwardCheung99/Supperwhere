@@ -8,8 +8,8 @@ The idea for Supperwhere comes from a commonly recurring dillema: What do I eat 
 
 ## Prototype
 
-The following is a link to a prototype for what the application was originally planned to look like. 
-[Prototype on Invision](https://projects.invisionapp.com/share/MGW6PTTJ4HP#/screens/407491823_Login_Page)
+The following is a link to a prototype for what the application was originally planned to look like:
+https://projects.invisionapp.com/share/MGW6PTTJ4HP#/screens/407491823_Login_Page
 
 ## Link
 
