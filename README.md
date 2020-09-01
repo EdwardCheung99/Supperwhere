@@ -6,13 +6,14 @@ Supperwhere is an application that allows users to figure out dining recommendat
 
 The idea for Supperwhere comes from a commonly recurring dillema: What do I eat for dinner? The decision making process for what to get for dinner can be a huge time-sink, and often times leaving the decision to chance can result in regret or second guesses. The idea for supperware was to use data to justify an optimal dinner decision, rather than just a random suggestion, or flipping a coin.
 
+## Prototype
+
+The following is a link to a prototype for what the application was originally planned to look like. 
+[Prototype on Invision](https://projects.invisionapp.com/share/MGW6PTTJ4HP#/screens/407491823_Login_Page)
+
 ## Link
 
 http://supperwhere.herokuapp.com/
-
-## Prototype Link
-
-[Prototype on Invision](https://projects.invisionapp.com/share/MGW6PTTJ4HP#/screens/407491823_Login_Page)
 
 ## Running the App (If above link is down)
 
